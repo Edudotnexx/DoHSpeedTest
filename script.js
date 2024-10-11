@@ -24,6 +24,8 @@ const topWebsites = ['google.com', 'youtube.com', 'facebook.com', 'amazon.com', 
 const dnsServers = [{
     name: "a-and-a", url: "https://dns.aa.net.uk/dns-query", ips: ["217.169.20.22"]
 }, {
+    name: "Xdo", url: "https://94.140.14.140/dns-query", ips: ["94.140.14.140"]
+}, {
     name: "AliDNS", url: "https://dns.alidns.com/dns-query", ips: ["223.5.5.5", "223.6.6.6"]
 }, {
     name: "OpenDNS", url: "https://doh.opendns.com/dns-query", ips: ["208.67.222.222", "208.67.220.220"]
