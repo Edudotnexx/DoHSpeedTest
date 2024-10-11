@@ -28,7 +28,7 @@ const dnsServers = [{
 }, {
     name: "AliDNS", url: "https://dns.alidns.com/dns-query", ips: ["223.5.5.5", "223.6.6.6"]
 }, {
-    name: "OpenDNS", url: "https://doh.opendns.com/dns-query", ips: ["208.67.222.222", "208.67.220.220"]
+    name: "OpenDNS", url: "https://208.67.222.222/dns-query", ips: ["208.67.222.222", "208.67.220.220"]
 }, {
     name: "CleanBrowsing",
     url: "https://doh.cleanbrowsing.org/doh/family-filter/",
